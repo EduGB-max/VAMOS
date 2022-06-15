@@ -1,0 +1,21 @@
+*{
+  font-size: 15px;
+color: darkslategray ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input, select{
+    margin: 10px 0;
+}
+
+
+
+textarea{
+    resize: none;
+}
+
+
+.listar{
+    overflow-y: scroll;
+    max-height: 600px;
+}
